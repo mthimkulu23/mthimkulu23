@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./thabang.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #E53935;" alt="Thabang Mthimkulu"/>
+<img src="./thabang_circle.png" width="180" height="180" alt="Thabang Mthimkulu"/>
 
 # 👋 Hi, I'm Thabang Mthimkulu
 
