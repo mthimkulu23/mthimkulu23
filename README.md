@@ -22,17 +22,6 @@ I am a data science enthusiast passionate about leveraging data to drive smarter
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| 🔬 Junior Data Scientist | Shaper (On-site) | Oct 2025 – Present |
-| 🔐 Junior Cyber Security Support Technician | Shaper (On-site) | Oct 2024 – Oct 2025 |
-| 🌐 Full-Stack Developer (Intern) | Shaper (On-site) | Oct 2023 – Sep 2024 |
-| 💻 Junior Software Developer (Intern) | SpecCon Holdings (Pty) Ltd | Aug 2025 – Sep 2025 |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📊 Data Science & Analytics
