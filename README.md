@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./thabang.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #E53935;" alt="Thabang Mthimkulu"/>
+
 # 👋 Hi, I'm Thabang Mthimkulu
 
 ### Data Scientist · Cybersecurity Practitioner · Full Stack Developer
@@ -130,9 +132,9 @@ I am a data science enthusiast passionate about leveraging data to drive smarter
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabang-mthimkulu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E53935?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabang-mthimkulu-b27316241)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Thabang23)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thabang23mthimkulu@gmail.com)
 
 </div>
 
